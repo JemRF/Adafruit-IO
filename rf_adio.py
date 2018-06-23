@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#rf_adio.js Interface between RF Module serial interface and AdafruitIO
+#rf_adio.py Interface between RF Module serial interface and AdafruitIO
 #---------------------------------------------------------------------------------                                                                               
 # J. Evans May 2018
 # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
